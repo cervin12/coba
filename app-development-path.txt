@@ -1,0 +1,6 @@
+yang harus dipelajari:
+-java
+-kotlin
+-flutter
+-xamarin
+-react native
