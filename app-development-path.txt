@@ -8,3 +8,4 @@ yang harus dipelajari:
 database:
 -sql lite
 -firebase
+-mysql
