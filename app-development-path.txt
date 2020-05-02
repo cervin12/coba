@@ -5,8 +5,7 @@ yang harus dipelajari:
 -xamarin
 -react native
 
-databsase :
--mysql
+database:
+-sql lite
 -firebase
-
-
+-mysql
