@@ -4,3 +4,7 @@ yang harus dipelajari:
 -flutter
 -xamarin
 -react native
+
+database:
+-sql lite
+-firebase
